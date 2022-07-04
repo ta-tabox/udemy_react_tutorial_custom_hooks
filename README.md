@@ -1,2 +1,2 @@
-# udemy_react_tutorial_custom_hooks
+# udemy_typescrip_tutorial
 Created with CodeSandbox
